@@ -1,1 +1,1 @@
-# Mtrix-multiplication-by-Multithreading
+# Matrix-multiplication-by-Multithreading
